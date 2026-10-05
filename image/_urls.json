@@ -1,0 +1,12 @@
+{
+ "hero_idle": "https://platform-outputs.agnes-ai.space/images/t2i/task_ToIqaYR4CpJJ4tekzsRK1UF3nH1rE4qd/output_2afcd615dcf0470b938e6c25a9430e8b.png",
+ "hero_shoot": "https://platform-outputs.agnes-ai.space/images/i2i/task_xe3G5vhwwAFDEoLDydm5v8DZclBZXoL9/output.png",
+ "grunt": "https://platform-outputs.agnes-ai.space/images/i2i/task_kakgn4f8i0MyCdzSWwobmYTVtDv90hCE/output.png",
+ "drone": "https://platform-outputs.agnes-ai.space/images/i2i/task_Xwn1WFXzj0yHwRSenF2MJdP5M4m65YFo/output.png",
+ "boss_1": "https://platform-outputs.agnes-ai.space/images/i2i/task_8Zk4skwsjR8u6AjmVJoaKnrkb6AeoKt3/output.png",
+ "boss_2": "https://platform-outputs.agnes-ai.space/images/i2i/task_GiIC1VjCwHGitEyE3cCh15XScqw53Hmk/output.png",
+ "boss_3": "https://platform-outputs.agnes-ai.space/images/i2i/task_KypxCHGE18AyrxDlp9R25rZ9u0xx38Me/output.png",
+ "bg_1": "https://platform-outputs.agnes-ai.space/images/t2i/task_jDjYpw7P5N3btvqrrSePE1E6R5AC3ENW/output_6b93e77178ad47f09ccc86691230ed76.png",
+ "bg_2": "https://platform-outputs.agnes-ai.space/images/t2i/task_FySrHoFq5BTgXaO65bvRAqznN5M6WCRt/output_6db56f8102aa49738ec98b1c6bbbf674.png",
+ "bg_3": "https://platform-outputs.agnes-ai.space/images/t2i/task_9SLFG3RUnKo68TudaILThWF1pOOye4VW/output_91f69da4a1304734894c9430d586c2b5.png"
+}
